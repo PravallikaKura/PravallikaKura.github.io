@@ -1,0 +1,75 @@
+{
+	"landing": {
+		"firstName": "Pravallika",
+		"lastName": "Kura",
+		"bio": "I am a pre-final year student in Computer Science and Engineering Stream. I am a Front End developer.I use React,AngularJs for the frontend development.",
+    "email": "pravallikakura@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pravallika-kura-951366167/",
+		"github": "https://github.com/PravallikaKura"
+	},
+	"experience": [
+		{
+			"position": "Software Developer Intern",
+			"organization": "IIIT Hyderabad",
+			"aboutWork": "Worked on Soil Mechanics and Foundation Engineering Lab of Virtual Labs IIIT Hyderabad and added new features in it.",
+			"fromDate": "May 2019",
+			"toDate": "August 2019"
+		}
+	],
+	"education": [{
+			"university": "BVRIT College of Engineering for Women",
+			"degree": "Bachelor of Technology",
+			"gpa": "8.78",
+			"fromDate": "August 2017",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Angularjs"
+		},
+		{
+			"name": "Cpp"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Flutter"
+		}
+	],
+	"interests": {
+		"paragraphOne": "I am currently interested in Data Science and Machine Learning.I have worked in Data Visualization field using python libraries.I am interested in Competitive Programming and working on various platforms like Codechef,HackerRank,Codeforces.",
+		"paragraphTwo": "Apart from Academics, I watch number of sci-fi genre movies and television shows, and I spend a large amount of my free time reading blogs and books."
+	},
+	"awards": [{
+		    "awardDetail": "Mentor Google Code-In'19"
+		},
+		{
+			"awardDetail": "Scored  Distinction in Xobin Certified Python Bootcamp"
+		},
+		{
+			"awardDetail": "Bertlesmann Data Science Challenge Scholarship"
+		},
+		{
+			"awardDetail": "Secured 8th position in Flipkart Grid Machine Learning Quiz in Campus."
+		}
+	]
+}
