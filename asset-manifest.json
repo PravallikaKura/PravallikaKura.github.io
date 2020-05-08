@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.498d002a.chunk.css",
-    "main.js": "/static/js/main.8d37e69a.chunk.js",
-    "main.js.map": "/static/js/main.8d37e69a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2a4ac1d7.chunk.js": "/static/js/2.2a4ac1d7.chunk.js",
-    "static/js/2.2a4ac1d7.chunk.js.map": "/static/js/2.2a4ac1d7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.628071f1bf3a199de3265c05b29f7894.js": "/precache-manifest.628071f1bf3a199de3265c05b29f7894.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "/static/css/main.498d002a.chunk.css.map",
-    "static/media/profile.jpg": "/static/media/profile.5d292e21.jpg"
+    "main.css": "/PravallikaKura.github.io/static/css/main.498d002a.chunk.css",
+    "main.js": "/PravallikaKura.github.io/static/js/main.e369f961.chunk.js",
+    "main.js.map": "/PravallikaKura.github.io/static/js/main.e369f961.chunk.js.map",
+    "runtime~main.js": "/PravallikaKura.github.io/static/js/runtime~main.5d821897.js",
+    "runtime~main.js.map": "/PravallikaKura.github.io/static/js/runtime~main.5d821897.js.map",
+    "static/js/2.2a4ac1d7.chunk.js": "/PravallikaKura.github.io/static/js/2.2a4ac1d7.chunk.js",
+    "static/js/2.2a4ac1d7.chunk.js.map": "/PravallikaKura.github.io/static/js/2.2a4ac1d7.chunk.js.map",
+    "index.html": "/PravallikaKura.github.io/index.html",
+    "precache-manifest.cd77c468871e14ad3700ecabbeeaf470.js": "/PravallikaKura.github.io/precache-manifest.cd77c468871e14ad3700ecabbeeaf470.js",
+    "service-worker.js": "/PravallikaKura.github.io/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/PravallikaKura.github.io/static/css/main.498d002a.chunk.css.map",
+    "static/media/profile.jpg": "/PravallikaKura.github.io/static/media/profile.5d292e21.jpg"
   }
 }
